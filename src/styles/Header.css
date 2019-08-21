@@ -1,0 +1,30 @@
+.main-wrapper {
+  background: #4A90E2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 64px;
+  padding: 10px 40px;
+}
+
+.main-wrapper img {
+  height: 24px;
+  width: 121px;
+}
+
+.profile-buttons {
+  height: fit-content;
+  width: 110px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile-buttons a {
+  color: #FFF;
+}
+
+.profile-buttons img {
+  width: 24px;
+  height: 24px;
+}

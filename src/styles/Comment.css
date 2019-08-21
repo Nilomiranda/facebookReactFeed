@@ -1,0 +1,22 @@
+.comment-container {
+  display: flex;
+  padding: 20px 0;
+}
+
+.comment-container img {
+  width: 33px;
+  height: 33px;
+}
+
+.comment-content {
+  margin-left: 20px;
+  border-radius: 10px;
+  background: #eee;
+  padding: 15px;
+  color: #3e3e3e;
+  font-size: 13px;
+}
+
+.comment-content span.publisher {
+  font-weight: bold;
+}
